@@ -1,0 +1,66 @@
+.n-wrapper{
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+   
+   
+    
+}
+
+
+
+.n-left{
+    flex: 1; /* nav bar left side design*/
+    align-items: center;
+    display: flex;
+    gap: 2rem;
+    /*padding: 0.5rem 3.5rem; we already added in app.css file*/
+}
+
+.n-name{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.n-right{
+    display: flex;
+    flex: 1; /* nav bar right side design. 
+    flex width is 1 bcz right & left will take equal width of 50% bcz of flex 1*/
+    align-items: center;
+   
+    justify-content: center;
+    font-weight: 400;
+}
+.n-list{
+    flex:10;
+}
+
+.n-list>ul{
+    display: flex;
+    gap: 2rem;
+    margin-right: 4rem;
+    cursor: pointer;
+}
+
+.n-list>ul > link > li:hover{
+    cursor: pointer;
+    color: red; /* i use var bcz i already addded some predefined color in app.js if u want to take random color just use like css */
+    
+}
+
+.n-button{
+    flex: 2;
+    
+}
+
+
+
+@media screen and (max-width : 480px) {
+
+    .n-list{
+        display: none;
+    }
+    .n-button{
+        display: none;
+    }
+}
