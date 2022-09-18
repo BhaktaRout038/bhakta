@@ -1,5 +1,7 @@
 {
+  "homepage": "https://BhaktaRout038.github.io/bhakta",
   "name": "starter",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +10,7 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "@testing-library/user-event": "^13.2.1",
+    "deploy-react": "^2.2.11",
     "emailjs": "^4.0.1",
     "react-scroll": "^1.8.7",
     "react-simple-typewriter": "^4.0.2",
@@ -16,6 +19,8 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
