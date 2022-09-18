@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/bhakta/static/css/main.ba5f8f82.css",
+    "main.js": "/bhakta/static/js/main.10aaff95.js",
+    "static/media/nm.png": "/bhakta/static/media/nm.7176bebc83b54e48f887.png",
+    "static/media/ind1.PNG": "/bhakta/static/media/ind1.6b7f32d832d16ab11cd3.PNG",
+    "static/media/brout.png": "/bhakta/static/media/brout.9b98aca6dd2822e705ba.png",
+    "static/media/res.jpg": "/bhakta/static/media/res.b3b95e144a67cb109377.jpg",
+    "static/media/gradienta.png": "/bhakta/static/media/gradienta.15a9db2897809307ebfc.png",
+    "static/media/pc.jpg": "/bhakta/static/media/pc.5e002a0a30edc47a4f58.jpg",
+    "static/media/mus.jpg": "/bhakta/static/media/mus.ca435f52aa7fa75ac411.jpg",
+    "static/media/xy.jpg": "/bhakta/static/media/xy.e72b51d51ceba4ffe13b.jpg",
+    "static/media/kl.jpg": "/bhakta/static/media/kl.7d6383da2de0e4694083.jpg",
+    "static/media/gym.jpg": "/bhakta/static/media/gym.e8de30af6db8df6dbf16.jpg",
+    "static/media/glassesimoji.png": "/bhakta/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/bo1.png": "/bhakta/static/media/bo1.1fe359981de7fcf5f20c.png",
+    "static/media/webdesign.png": "/bhakta/static/media/webdesign.225c2baa57d434f33f9b.png",
+    "static/media/bhakta.docx": "/bhakta/static/media/bhakta.a305c130af5f2ddd0c34.docx",
+    "static/media/vector4.png": "/bhakta/static/media/vector4.a35ffa8ac532e7e8b846.png",
+    "static/media/wave.png": "/bhakta/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/bhakta/static/media/crown.dbe416beae9b49b842ab.png",
+    "index.html": "/bhakta/index.html",
+    "main.ba5f8f82.css.map": "/bhakta/static/css/main.ba5f8f82.css.map",
+    "main.10aaff95.js.map": "/bhakta/static/js/main.10aaff95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba5f8f82.css",
+    "static/js/main.10aaff95.js"
+  ]
+}
